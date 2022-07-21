@@ -53,30 +53,30 @@
 
             <div class="menu">
                 <button>
-                    <img src="HOME.PNG" height="20" width="20">
-                        <a href="HOME.html"style="text-decoration:none">
-                            <b> HOME</b>
+                    <img src="HOME.png" height="20" width="20">
+                        <a href="index.html"style="text-decoration:none">
+                            <b> HOME&nbsp;</b>
                         </a>
-                    </button>
+                </button>    
                 <button>
-                    <img src="sym.PNG" height="20" width="20">
+                    <img src="sym.png" height="20" width="20">
                     <a href="Hitung.php"style="text-decoration:none">
-                        <b> PENGHITUNG</b>
+                        <b> PENGHITUNG&nbsp;</b>
                     </a>
                 </button>
                 <button>
-                    <img src="tab.PNG" height="20" width="20">
+                    <img src="tab.png" height="20" width="20">
                     <a href="Tampil.php"style="text-decoration:none">
-                        <b> LAPORAN</b>
+                        <b> LAPORAN&nbsp;</b>
                     </a>
                 </button>
                 <button>
-                    <img src="PERSON.PNG" height="20" width="20">
-                    <a href="ABOUT.html"style="text-decoration:none">
+                    <img src="PERSON.png" height="20" width="20">
+                    <a href="About.html"style="text-decoration:none">
                         <b> ABOUT</b>
                     </a>
                 </button>
-            </div>s   
+            </div>   
             </th>
 
         </tr>
