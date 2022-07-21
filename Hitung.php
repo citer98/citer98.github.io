@@ -28,56 +28,12 @@
         font-size: 20px;
      }
 
-     body 
-     {
-        background-image: url('bg.jpg');
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: cover;
-    }
+     
     </style>
 
 </head>
 <body>
         <br><br><br><br><br>
-        <table bgcolor="white" align="center" border="2" cellpadding="100">
-        <tr bgcolor="white">
-            <a name="top"></a>            
-            <th>
-
-            <div class="title">
-            Program Pertamina
-            </div>
-
-            <div class="menu">
-                <button>
-                    <img src="HOME.png" height="20" width="20">
-                        <a href="index.html"style="text-decoration:none">
-                            <b> HOME</b>
-                        </a>
-                    </button>
-                <button>
-                    <img src="sym.png" height="20" width="20">
-                    <a href="Hitung.php"style="text-decoration:none">
-                        <b> PENGHITUNG</b>
-                    </a>
-                </button>
-                <button>
-                    <img src="tab.png" height="20" width="20">
-                    <a href="Tampil.php"style="text-decoration:none">
-                        <b> LAPORAN</b>
-                    </a>
-                </button>
-                <button>
-                    <img src="PERSON.png" height="20" width="20">
-                    <a href="About.html"style="text-decoration:none">
-                        <b> ABOUT</b>
-                    </a>
-                </button>
-            </div>   
-            </th>
-        </tr>
-
         <tr>
             <td>
                 <div align="center">
@@ -154,11 +110,5 @@
                             <center><a href="lihat.php">::Lihat Data Laporan::</a></center>
                         </strong>
                 </div>
-            </td>
-        </tr>
-        <tr>
-            
-        </tr>
-    </table>
 </body>
 </html>
