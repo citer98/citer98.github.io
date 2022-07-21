@@ -9,20 +9,6 @@
         font-size: 20px;
      }
 
-     .menu {
-        position: relative;
-        left: -200px;
-        font-size: 20px;  
-        top: 50px;
-     }
-
-     .title
-     {
-        position: relative;
-        font-size: 80px;  
-        top: -30px;
-     }
-
      .hitung
      {
         font-size: 20px;
@@ -40,51 +26,7 @@
 </head>
 <body>
         <br><br><br><br><br>
-        <table bgcolor="white" align="center" border="2" cellpadding="100">
-        <tr bgcolor="white">
-            <a name="top"></a>            
-            <th>
 
-            <div class="title">
-            Program Pertamina
-            </div>
-
-            <div class="menu">
-                <button>
-                    <img src="HOME.png" height="20" width="20">
-                        <a href="index.html"style="text-decoration:none">
-                            <b> HOME&nbsp;</b>
-                        </a>
-                </button>    
-                <button>
-                    <img src="sym.png" height="20" width="20">
-                    <a href="Hitung.php"style="text-decoration:none">
-                        <b> PENGHITUNG&nbsp;</b>
-                    </a>
-                </button>
-                <button>
-                    <img src="tab.png" height="20" width="20">
-                    <a href="Tampil.php"style="text-decoration:none">
-                        <b> LAPORAN&nbsp;</b>
-                    </a>
-                </button>
-                <button>
-                    <img src="PERSON.png" height="20" width="20">
-                    <a href="About.html"style="text-decoration:none">
-                        <b> ABOUT</b>
-                    </a>
-                </button>
-            </div>>   
-            </th>
-        </tr>
-
-        <tr>
-            <td>
-                <div align="center">
-                    <strong>
-                        <font size="10" face="Courier New, Courier, mono">LAPORAN PEMBELIAN</font>
-                    </strong>
-                    <br>
           <?php
             //buka file counter mode baca
             $filecounter="counter.txt";
@@ -154,11 +96,5 @@
                             <center><a href="lihat.php">::Lihat Data Laporan::</a></center>
                         </strong>
                 </div>
-            </td>
-        </tr>
-        <tr>
-            
-        </tr>
-    </table>
 </body>
 </html>
